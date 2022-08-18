@@ -16,19 +16,19 @@ global.APIKeys = {
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
-*hammou Ξ*
+*hammou2 Ξ*
 *I am 16 years old developer...*
 *From Sri Lanka 🇱🇰*
 *I am a Learning.*
-*Not more..*
+*Not more.moroco.*
 *Also I am Student*
 *Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
 global.owner =  ['+212621380298'] //👈  Enter Your number
 global.premium =  ['+212621380298'] //👈  Enter Your number
 global.ownernomer = '+212621380298👈  Enter Your number
-global.ownername = 'hammou' //👈 Enter Your name
-global.botname = 'hammou' //👈 Enter Your Bot name
-global.footer = '© hammou //👈 Enter Your Name
+global.ownername = 'HAMMOU2 BOT' //👈 Enter Your name
+global.botname = 'HAMMOU2' //👈 Enter Your Bot name
+global.footer = '© HAMMOU2 //👈 Enter Your Name
 global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
 global.region = 'moroco' // 👈 You Can change this your choice
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
